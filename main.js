@@ -5,9 +5,9 @@ let objects = [], selected = null;
     // Cargar texturas
     const loader = new THREE.TextureLoader();
     const textures = {
-    tex1: loader.load('assets/textura1.jpg'),
-    tex2: loader.load('assets/textura2.jpg'),
-    tex3: loader.load('assets/textura3.jpg')
+    tex1: loader.load('textura1.jpg'),
+    tex2: loader.load('textura2.jpg'),
+    tex3: loader.load('textura3.jpg')
     };
 
     // Inicializar
@@ -244,3 +244,4 @@ let objects = [], selected = null;
     renderer.render(scene,camera);
     controls.update();
     }
+
