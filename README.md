@@ -33,18 +33,19 @@ https://drive.google.com/file/d/1Is_jeD2D6RWbbRmq2SxLQ9ACfrxZB4bu/view?usp=drive
 
 ##  Instrucciones de uso
 
-1. Abrir `index.html` en el navegador.
-2. En el panel lateral puedes:
+1.Primero descarga el zip y colocalo en el disco local C .
+2.  Abrir `index.html` en el navegador.
+3. En el panel lateral puedes:
    - Agregar objetos (**cubo, esfera, cilindro**)
    - Seleccionar el color del material
    - Cambiar el tipo de sombreado (Flat, Gouraud, Phong)
    - Activar textura
    - Aplicar shader fractal
-3. En el área 3D puedes:
+4. En el área 3D puedes:
    - Rotar la cámara con el mouse
    - Hacer zoom
    - Seleccionar y manipular objetos
-4. Usa los botones para:
+5. Usa los botones para:
    - Restablecer material
    - Cambiar iluminación
    - Probar las distintas técnicas de sombreado
