@@ -26,12 +26,12 @@ Desarrollar un simulador interactivo que permita **aprender, comparar y experime
 | **Josué Neri** | Investigación técnica, pruebas y documentación |
 
 
-## ▶ Video de uso del simulador  
+##  Video de uso del simulador  
 Demostración completa del funcionamiento del simulador:
 
 https://drive.google.com/file/d/1Is_jeD2D6RWbbRmq2SxLQ9ACfrxZB4bu/view?usp=drive_link
 
-## 🧩 Instrucciones de uso
+##  Instrucciones de uso
 
 1. Abrir `index.html` en el navegador.
 2. En el panel lateral puedes:
